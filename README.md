@@ -13,7 +13,7 @@ Install the components by dragging & dropping the assembly SOFi_CDB_Access.gha i
 
 EXAMPLES
 
-Some examples are shown in the folder "Examples". Open Examples.3dm and Examples.gh, more detailed instructions are given in the .gh file.
+Some examples are shown in the folder "Examples". Download Examples.cdb and open Examples.3dm and Examples.gh, more detailed instructions are given in the .gh file.
 
 AUTHOR
 
