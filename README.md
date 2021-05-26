@@ -10,11 +10,11 @@ The plug-in works with Rhino 6. It works for each SOFiSTiK version, but needs SO
 
 INSTALLING
 
-Install the components by dragging & dropping the assembly SOFi_CDB_Access.gha into the Grasshopper window.
+Install the components by dragging & dropping the assembly SOFi_CDB_Access.gha into the Grasshopper window. In some cases the Plug-in needs to be unblocked under properties.
 
 EXAMPLES
 
-Some examples are shown in the folder "Examples". Download the .cdb file and open the .3dm and the .gh files, more detailed instructions are given in Examples.gh file.
+Some examples are shown in the folder "Examples". Download the .cdb file and open the .3dm and the .gh files, more detailed instructions are given in Examples.gh file. Some visualization examples have been added in the latest update.
 
 AUTHOR
 
@@ -28,7 +28,3 @@ UPDATE 25/05/2021
 2) GetDisplacement - bug fixed:		With this update GetDisplacement works also in load cases where some groups are turned off.
 
 3) GetBeamReinf - new task:   Returns the reinforcement results for the chosen design load case.
-
-NOTE
-
-In some cases the Plug-in needs to be unblocked under properties.
