@@ -20,3 +20,15 @@ AUTHOR
 
 Matteo Brunetti
 ing.brunettimatteo@gmail.com
+
+UPDATE 25/05/2021
+
+1) GetSIR - bug fixed:  In the past the task returned correct SIRs only if each cut was generated with an unique number. With this update all SIRs are recognized, also with same beam number.
+
+2) GetDisplacement - bug fixed:		With this update GetDisplacement works also in load cases where some groups are turned off.
+
+3) GetBeamReinf - new task:   Returns the reinforcement results for the chosen design load case.
+
+NOTE
+
+In some cases the Plug-in needs to be unblocked under properties.
