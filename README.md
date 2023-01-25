@@ -28,3 +28,9 @@ UPDATE 25/05/2021
 2) GetDisplacement - bug fixed:		With this update GetDisplacement works also in load cases where some groups are turned off.
 
 3) GetBeamReinf - new task:   Returns the reinforcement results for the chosen design load case.
+
+UPDATE 25/01/2022
+
+1) New tasks
+
+2) Bug fixes
